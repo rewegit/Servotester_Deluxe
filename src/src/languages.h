@@ -24,8 +24,12 @@ String languageString[] {"Language", "Sprache", "Langue"};
 String pongBallRateString[] {"Pong ball speed", "Pong Ball Gesch.", "Pong V. de balle"};
 
 // Impuls lesen
-String impulseString[] {"Impulse", "Impuls", "Impulsion"};
+String impulseString[] {"Ch:", "Ch:", "Ch:"};
 String impulseSignalString[] {"No signal", "Kein Signal", "Pas de signal"};
+
+String impulseStateNotConnectedString[] {"NOT CONNECTED", "Kein Signal",  "Pas de signal"};
+String impulseStateUnstableString[] {"UNSTABLE", "instabil",  "instable"};
+String impulseStateStableString[] {"STABLE", "stabil",  "stable"};
 
 // Automatik
 String delayString[] {"Delay", "Verz.", "Ret."};
