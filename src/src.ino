@@ -98,7 +98,7 @@ using namespace std;
 #include "src/sbus.h"       // For SBUS interface
 
 // PWM Reader
-#include "esp32-rmt-pwm-reader.h"
+#include <esp32-rmt-pwm-reader.h>
 
 // EEPROM
 #define EEPROM_SIZE 72
